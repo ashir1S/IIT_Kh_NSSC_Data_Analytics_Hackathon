@@ -1,0 +1,2 @@
+Model,Accuracy,F1-Score (macro),Precision (macro),Recall (macro)
+CNN (Image Data),0.7436916138730807,0.7429968489650458,0.7434675245532751,0.7431178602461954
