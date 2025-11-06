@@ -1,6 +1,6 @@
 # 🚀 NSSC 2025: Data Analytics Event
 
-!["Jet Particle Wallpaper"] (1_Wallpaper.jpg)
+!["Jet Particle Wallpaper"] (https://github.com/5umitpandey/IIT_Kh_NSSC_Data_Analytics_Hackathon/blob/main/1_Wallpaper.jpg)
 
 ## 🧩 Team Information
 - **Team ID:** T-0823769
