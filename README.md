@@ -1,4 +1,6 @@
-# 🚀 NSSC 2025: Data Analytics Event Submission
+# 🚀 NSSC 2025: Data Analytics Event
+
+!["Jet Particle Wallpaper"] (1_Wallpaper.jpg)
 
 ## 🧩 Team Information
 - **Team ID:** T-0823769
