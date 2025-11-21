@@ -125,7 +125,7 @@ NSSC_DataAnalytics_Team_ASHSUM143/
 
 | Model | Data Type | Accuracy | F1-Score | ROC-AUC |
 |:------|:-----------|:----------|:----------|:----------|
-| ResNet-18 | Image | 94.3% | 0.94 | 0.96 |
+| ResNet-18 | Image | 74.3% | 0.74 | 0.86 |
 | Random Forest | Tabular | 91.7% | 0.91 | 0.93 |
 | CNN Autoencoder | Image | — | — | 0.89 (Anomaly Detection) |
 
