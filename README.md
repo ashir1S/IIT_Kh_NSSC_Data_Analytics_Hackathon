@@ -123,11 +123,12 @@ NSSC_DataAnalytics_Team_ASHSUM143/
 
 ## 📊 Results Summary
 
-| Model | Data Type | Accuracy | F1-Score | ROC-AUC |
-|:------|:-----------|:----------|:----------|:----------|
-| ResNet-18 | Image | 74.3% | 0.74 | 0.86 |
-| Random Forest | Tabular | 91.7% | 0.91 | 0.93 |
-| CNN Autoencoder | Image | — | — | 0.89 (Anomaly Detection) |
+| Model   | Acc     | F1      | ROC AUC | Notes               |
+|---------|---------|---------|---------|---------------------|
+| RF      | 0.8225  | 0.8198  | 0.9012  | Best overall        |
+| PCA RF  | 0.7939  | 0.7901  | 0.8834  | Fast and efficient  |
+| CNN     | 0.7437  | 0.7392  | 0.8645  | Learns jet structure |
+
 
 ---
 
