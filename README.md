@@ -157,4 +157,20 @@ pip install -r requirements.txt
 
 # Run notebooks
 jupyter notebook Notebook/
+```
+
+<br>
+
+## PPT: [PPT Live Link](https://gamma.app/docs/Jet-Classification-Anomaly-Detection-using-Machine-Learning-Model-c6fngewtvv8in58?mode=present)
+
+<br>
+
+## Photos:
+![Live Presentation](https://github.com/5umitpandey/IIT_Kh_NSSC_Data_Analytics_Hackathon/blob/main/Photos/1Presentation_1.jpeg)
+![Opening Ceremony](https://github.com/5umitpandey/IIT_Kh_NSSC_Data_Analytics_Hackathon/blob/main/Photos/2Ceremony.jpeg)
+![Live Presentation](https://github.com/5umitpandey/IIT_Kh_NSSC_Data_Analytics_Hackathon/blob/main/Photos/3Presentation_2.jpeg)
+![T-shirt & ID-Card](https://github.com/5umitpandey/IIT_Kh_NSSC_Data_Analytics_Hackathon/blob/main/Photos/4Tshirt_IDCard.jpeg)
+![Live Presentation](https://github.com/5umitpandey/IIT_Kh_NSSC_Data_Analytics_Hackathon/blob/main/Photos/5Presentation_3.jpeg)
+![Medal + Certificate](https://github.com/5umitpandey/IIT_Kh_NSSC_Data_Analytics_Hackathon/blob/main/Photos/6Certificate.JPG)
+
 
