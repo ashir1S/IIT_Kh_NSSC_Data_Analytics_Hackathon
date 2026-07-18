@@ -3,34 +3,6 @@
 ![Jet Particle Wallpaper](https://github.com/ashir1S/IIT_Kh_NSSC_Data_Analytics_Hackathon/blob/main/1_Wallpaper.png)
 
 ## 🚀 Live Deployment: [OmniJet Particle Classifier](https://huggingface.co/spaces/Ashirwad12/omnijet-particle-classifier)
-
-<div align="center">
-
-## 👥 Team
-
-**Team ID**: T-0823769
-
-**Team Name**: ASHSUM
-
-**Team Members**:
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/5umitpandey.png" width="150px;" alt="Sumit Pandey"/><br/>
-      <a href="https://github.com/5umitpandey">Sumit Pandey</a><br/>
-      25-222056
-    </td>
-    <td align="center">
-      <img src="https://github.com/ashir1s.png" width="150px;" alt="Ashirwad Sinha"/><br/>
-      <a href="https://github.com/ashir1s">Ashirwad Sinha</a><br/>
-      25-412666
-    </td>
-  </tr>
-</table>
-
-</div>
-
 ---
 
 ## 🧠 Project Overview
@@ -193,3 +165,32 @@ jupyter notebook Notebook/
 ![T-shirt & ID-Card](https://github.com/5umitpandey/IIT_Kh_NSSC_Data_Analytics_Hackathon/blob/main/Photos/4Tshirt_IDCard.jpeg)
 ![Live Presentation](https://github.com/5umitpandey/IIT_Kh_NSSC_Data_Analytics_Hackathon/blob/main/Photos/5Presentation_3.jpeg)
 ![Medal + Certificate](https://github.com/5umitpandey/IIT_Kh_NSSC_Data_Analytics_Hackathon/blob/main/Photos/6Certificate.JPG)
+
+---
+<div align="center">
+
+## 👥 Team
+
+**Team ID**: T-0823769
+
+**Team Name**: ASHSUM
+
+**Team Members**:
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/5umitpandey.png" width="150px;" alt="Sumit Pandey"/><br/>
+      <a href="https://github.com/5umitpandey">Sumit Pandey</a><br/>
+      25-222056
+    </td>
+    <td align="center">
+      <img src="https://github.com/ashir1s.png" width="150px;" alt="Ashirwad Sinha"/><br/>
+      <a href="https://github.com/ashir1s">Ashirwad Sinha</a><br/>
+      25-412666
+    </td>
+  </tr>
+</table>
+
+</div>
+---
